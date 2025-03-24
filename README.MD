@@ -17,8 +17,6 @@
 ## An endless slashing rush
 <p>Slash Saber is an endless game made with <a href="https://github.com/mrdoob/three.js" target="_blank">three.js</a> and <a href="https://github.com/vuejs/core" target="_blank">Vue</a></p>
 
-<img alt="Slash Saber gameplay" src="./public/readme_loop.webp"/>
-
 ## How to play
 - Slash obstacles with your sword using the mouse
 - Some obstacles can only be slashed from one direction
