@@ -1,8 +1,4 @@
 
-<p align="center">
-<img src="./public/logo.svg#gh-light-mode-only" width="250" />
-<img src="./public/logo_white.svg#gh-dark-mode-only" width="250" />
-</p>
 
 <h1 align="center">Slash Saber</h1>
 
