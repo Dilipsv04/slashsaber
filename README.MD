@@ -6,12 +6,6 @@
 
 <h1 align="center">Slash Saber</h1>
 
-<p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/honzaap/SlashSaber" />
-  <img alt="ThreeJS version" src="https://img.shields.io/badge/threejs-v153-d5a814" />
-  <img alt="Vue version" src="https://img.shields.io/badge/vue-v3.2-24e064" />
-  <img alt="GitHub" src="https://img.shields.io/github/license/honzaap/SlashSaber" />
-
 </p>
 
 <p align="center">
