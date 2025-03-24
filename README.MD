@@ -36,9 +36,6 @@
 3. Run `npm install`
 4. Run `vite` or `npm run dev`
 
-## 3D assets
-- Blender files for some 3D assets are available in the <a href="https://github.com/honzaap/SlashSaber/tree/main/dev_assets">dev_assets</a> folder and are free to use under the condition that you star this repository 🙂
-
 ## Used technologies
 - <a href="https://github.com/mrdoob/three.js" target="_blank">three.js</a> - 3D library
 - <a href="https://github.com/vuejs/core" target="_blank">Vue</a> - Frontend framework
